@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Front End Development on Udemy.com
 - 💞️ I’m not looking to collaborate on anything at the moment. Still learning.
 - 📫 How to reach me: you can shoot me a message on here (I think). 
+- ✍🏾 I am currently storing my projects locally at https://gitlab.fyrf.li/camille and https://gitlab.fyrf.li/fyrfli
 
 <!---
 fyrfli/fyrfli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
