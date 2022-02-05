@@ -2,7 +2,7 @@
 - 👀 I’m interested in all sorts of things. I have been a database and system administrator and now trying to expand my skills.
 - 🌱 I’m currently learning Front End Development on Udemy.com
 - 💞️ I’m not looking to collaborate on anything at the moment. Still learning.
-- 📫 How to reach me: you can shoot me a message on here (I think). 
+- 📫 How to reach me: check out my profile - my email address is there.
 - ✍🏾 I am currently storing my projects locally at https://gitlab.fyrf.li/camille and https://gitlab.fyrf.li/fyrfli
 
 <!---
