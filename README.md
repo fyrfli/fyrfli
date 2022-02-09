@@ -7,7 +7,7 @@
 
 Until I set up a homepage and organise my projects hierarchically, here a couple projects I have been working on in my spare (ha!) time:
 
-- [Shadows and transformations](https://fyrfli.io/shadows) - inspired by my [current Udemy course](https://www.udemy.com/share/102wPk3@V44xa8SAYgt3sRQCSBh0H4ahw8JCnkNaNMPYqn3YmDnghdn6JQaJRvgLE3IMHuBdcQ==/))
+- [Shadows and transformations](https://fyrfli.io/shadows) - inspired by my [current Udemy course](https://www.udemy.com/share/102wPk3@V44xa8SAYgt3sRQCSBh0H4ahw8JCnkNaNMPYqn3YmDnghdn6JQaJRvgLE3IMHuBdcQ==/)
 - [Frontend Mentor QR Code Component challenge](https://fyrfli.io/qr-code-component)
 - [Grids](https://fyrfli.io/grids-one) - inspired by my [next Frontend Mentor challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
