@@ -3,15 +3,7 @@
 - 🌱 I’m currently learning Front End Development on Udemy.com
 - 💞️ I’m not looking to collaborate on anything at the moment. Still learning.
 - 📫 How to reach me: check out my profile - my email address is there.
-- ✍🏾 I am currently storing my projects locally at https://gitlab.fyrfli.io/camille and https://gitlab.fyrfli.io/fyrfli
-
-Until I set up a homepage and organise my projects hierarchically, here a couple projects I have been working on in my spare (ha!) time:
-
-- [Shadows and transformations](https://camille.fyrfli.io/shadows) - inspired by my [current Udemy course](https://www.udemy.com/share/102wPk3@V44xa8SAYgt3sRQCSBh0H4ahw8JCnkNaNMPYqn3YmDnghdn6JQaJRvgLE3IMHuBdcQ==/)
-- [Frontend Mentor QR Code Component challenge](https://camille.fyrfli.io/qr-code-component)
-- [Grids](https://camille.fyrfli.io/grids-one) - inspired by my [next Frontend Mentor challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
-
-Stay tuned for me.
+- ✍🏾 Check out my [newly created portfolio page](https://fyrfli.io). It's a first draft but I welcome advice, suggestions, and recommendations.
 
 <!---
 fyrfli/fyrfli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
