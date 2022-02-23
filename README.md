@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @fyrfli
+# 👋 Hi, I’m @fyrfli
+
+- &#x1f913; My real name is Camille Frantz
 - 👀 I’m interested in all sorts of things. I have been a database and system administrator and now trying to expand my skills.
 - 🌱 I’m currently learning Front End Development on Udemy.com
 - 💞️ I’m not looking to collaborate on anything at the moment. Still learning.
