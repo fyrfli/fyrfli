@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front End Development on Udemy.com
 - 💞️ I’m not looking to collaborate on anything at the moment. Still learning.
 - 📫 How to reach me: check out my profile - my email address is there.
-- ✍🏾 Check out my [newly created portfolio page](https://fyrfli.io). It's a first draft but I welcome advice, suggestions, and recommendations.
+- ✍🏾 I'm working on a [chronicle of my journey](https://camille.fyrfli.io) from hobby coder to professional web developer. 
 
 <!---
 fyrfli/fyrfli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
