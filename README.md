@@ -1,4 +1,3 @@
-![Header](https://github.com/fyrfli/fyrfli/blob/231f67130405b6bfb555661403933cb02a1796ae/bg.png)
 
 # 👋🏾 Hi, I’m @fyrfli 
 
@@ -17,6 +16,7 @@
 - [CSS-Tricks](https://css-tricks.com)
 - [Frontend Mentor](https://frontendmentor.io)
 - [MDN](https://developer.mozilla.org)
+- <a rel="me" href="https://fosstodon.org/@fyrfli">Mastodon</a>
 
 
 
