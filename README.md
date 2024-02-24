@@ -1,22 +1,20 @@
 
 # 👋🏾 Hi, I’m @fyrfli 
 
-&#x1f913; My real name is Camille Frantz. I was born in 🇯🇲[Kingston, Jamaica](https://en.wikipedia.org/wiki/Kingston,_Jamaica) and am now living in 🇺🇸[Missouri, United States](https://en.wikipedia.org/wiki/Missouri) with my active duty Military husband and 2 🐕puppers.
+&#x1f913; My real name is Camille Frantz. I was born in 🇯🇲[Kingston, Jamaica](https://en.wikipedia.org/wiki/Kingston,_Jamaica) and am now living in 🇺🇸[Missouri, United States](https://en.wikipedia.org/wiki/Missouri) with my retired Military husband and 2 🐕puppers.
 
 &#x1f615; I am a programmer who became a system and database administrator, who then did some writing and editing, which then turned into facilitative mediation, which led to a social work degree before I realised my calling was right back where I started neck-deep in code.
 
-👀 I'm curious by nature so I dig deep and learn about all sorts of things. I've taught myself git (just enough to manage my own code through Nova and VSCode), docker (just enough to run a few self-hosted apps including Gitlab), nginx (necessary to host my own websites and a reverse proxy), among other tools and I am currently working on a deeper understanding of frontend coding on 🎓[Udemy](https://udemy.com).
+👀 I'm curious by nature so I dig deep and learn about all sorts of things. I've taught myself git (just enough to manage my own code), docker (just enough to run a few self-hosted apps including Gitlab), nginx (necessary to host my own websites and a reverse proxy), caddy (same as nginx) among other tools. I spend my days working on my self-hosted projects and learning more python, html, css, and javascript.
 
-✍🏾 I'm working on a [chronicle of my journey](https://camille.fyrfli.io) from hobby coder to professional web developer and it's hosted on my self-hosted Gitlab.
-
-❤️ When I am not coding, I am playing 🎮video games or 📖reading or 📺binge watching some true crime series or movies. I've also been known to take 📷photographs. I am working on building a [🖼️photo gallery](https://photos.fyrfli.me) to showcase some of my better pieces. The gallery itself is a sorely neglected work in progress.
+❤️ When I am not coding, I am playing 🎮video games or 📖reading or 📺binge watching some true crime series or movies. I've also been known to take 📷photographs.
 
 👍 Some of my favourite resources are:
 
 - [CSS-Tricks](https://css-tricks.com)
 - [Frontend Mentor](https://frontendmentor.io)
 - [MDN](https://developer.mozilla.org)
-- <a rel="me" href="https://fosstodon.org/@fyrfli">Mastodon</a>
+- <a rel="me" href="https://diaspora.im/@fyrfli">Mastodon</a>
 
 
 
