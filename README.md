@@ -1,7 +1,7 @@
 
 # 👋🏾 Hi, I’m @fyrfli 
 
-&#x1f913; My real name is Camille Frantz. I was born in 🇯🇲[Kingston, Jamaica](https://en.wikipedia.org/wiki/Kingston,_Jamaica) and am now living in 🇺🇸[Missouri, United States](https://en.wikipedia.org/wiki/Missouri) with my retired Military husband and 2 🐕puppers.
+&#x1f913; My real name is Camille Frantz. I was born in 🇯🇲[Kingston, Jamaica](https://en.wikipedia.org/wiki/Kingston,_Jamaica) and am now living in 🇺🇸[Missouri, United States](https://en.wikipedia.org/wiki/Missouri) with my retired Military husband and 3 🐕puppers.
 
 &#x1f615; I am a programmer who became a system and database administrator, who then did some writing and editing, which then turned into facilitative mediation, which led to a social work degree before I realised my calling was right back where I started neck-deep in code.
 
