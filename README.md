@@ -14,7 +14,8 @@
 - [CSS-Tricks](https://css-tricks.com)
 - [Frontend Mentor](https://frontendmentor.io)
 - [MDN](https://developer.mozilla.org)
-- <a rel="me" href="https://diaspora.im/@fyrfli">Mastodon</a>
+
+<a rel="me" href="https://diaspora.im/@fyrfli"></a>
 
 
 
