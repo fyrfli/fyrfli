@@ -20,27 +20,17 @@
 
 
 ---
-<style>
-.badges {
-    display: block;
-    margin: auto;
-    text-align: center;
-}
-</style>
-
-<div class="badges">
-    <img alt="Static Badge" src="https://img.shields.io/badge/OS-debian?style=for-the-badge&logo=Debian&logoColor=orangered&label=Debian&labelColor=gray&color=darkred">
-    <img alt="Static Badge" src="https://img.shields.io/badge/OS-macos?style=for-the-badge&logo=macos&label=OS%20X&labelColor=gray&color=purple">
-    <br />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Shell-bash?style=for-the-badge&logo=GNU%20Bash&logoColor=green&label=bash&labelColor=grey&color=olive" />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Code-html?style=for-the-badge&logo=html5&label=HTML&color=orange" />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Code-css3?style=for-the-badge&logo=css3&label=CSS&color=lightblue" />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Code-python?style=for-the-badge&logo=python&label=python&color=teal" />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Tool-royalblue?style=for-the-badge&logo=Markdown&label=Markdown" />
-    <br />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Tool-red?style=for-the-badge&logo=git&label=git" />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Tool-caddy?style=for-the-badge&logo=Caddy&label=Caddy&labelColor=grey&color=olivedrab" />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Tool-red?style=for-the-badge&logo=nginx&label=nginx&labelColor=grey&color=darkgreen" />
-    <br />
-    <img alt="Static Badge"src="https://img.shields.io/badge/Tool-neovim?style=for-the-badge&logo=Neovim&label=neovim&color=darkgoldenrod" />
-</div>
+<img alt="Static Badge" src="https://img.shields.io/badge/OS-debian?style=for-the-badge&logo=Debian&logoColor=orangered&label=Debian&labelColor=gray&color=darkred">
+<img alt="Static Badge" src="https://img.shields.io/badge/OS-macos?style=for-the-badge&logo=macos&label=OS%20X&labelColor=gray&color=purple">
+<br />
+<img alt="Static Badge"src="https://img.shields.io/badge/Shell-bash?style=for-the-badge&logo=GNU%20Bash&logoColor=green&label=bash&labelColor=grey&color=olive" />
+<img alt="Static Badge"src="https://img.shields.io/badge/Code-html?style=for-the-badge&logo=html5&label=HTML&color=orange" />
+<img alt="Static Badge"src="https://img.shields.io/badge/Code-css3?style=for-the-badge&logo=css3&label=CSS&color=lightblue" />
+<img alt="Static Badge"src="https://img.shields.io/badge/Code-python?style=for-the-badge&logo=python&label=python&color=teal" />
+<img alt="Static Badge"src="https://img.shields.io/badge/Tool-royalblue?style=for-the-badge&logo=Markdown&label=Markdown" />
+<br />
+<img alt="Static Badge"src="https://img.shields.io/badge/Tool-red?style=for-the-badge&logo=git&label=git" />
+<img alt="Static Badge"src="https://img.shields.io/badge/Tool-caddy?style=for-the-badge&logo=Caddy&label=Caddy&labelColor=grey&color=olivedrab" />
+<img alt="Static Badge"src="https://img.shields.io/badge/Tool-red?style=for-the-badge&logo=nginx&label=nginx&labelColor=grey&color=darkgreen" />
+<br />
+<img alt="Static Badge"src="https://img.shields.io/badge/Tool-neovim?style=for-the-badge&logo=Neovim&label=neovim&color=darkgoldenrod" />
