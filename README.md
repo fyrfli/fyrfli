@@ -1,4 +1,13 @@
-![](bg.png|height=200)
+<style>
+img {
+    height: 240px;
+    width: auto;
+    box-shadow: 1px 2px 4px grey;
+    margin: auto;
+    display: block;
+}
+</style>
+<img src="bg.png" alt="my hand holding a cup on an orange-green background" />
 
 # 👋🏾 Hi, I’m @fyrfli 
 
