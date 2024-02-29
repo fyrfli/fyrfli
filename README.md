@@ -1,12 +1,4 @@
-<style>
-img {
-    box-shadow: 1px 2px 4px grey;
-    clip-path: inset(20px 0px 30px 10px);
-    margin: auto;
-    display: block;
-}
-</style>
-<img src="bg.png" alt="my hand holding a cup on an orange-green background" />
+___
 
 # 👋🏾 Hi, I’m @fyrfli 
 
