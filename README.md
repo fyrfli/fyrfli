@@ -1,3 +1,4 @@
+![](bg.png|height=200)
 
 # 👋🏾 Hi, I’m @fyrfli 
 
@@ -22,8 +23,3 @@
 ---
 
 ![](https://img.shields.io/badge/OS-Linux-green) ![](https://img.shields.io/badge/Shell-bash-green) ![](https://img.shields.io/badge/Code-HTML-green) ![](https://img.shields.io/badge/Code-CSS-green) ![](https://img.shields.io/badge/Code-Markdown-green) ![](https://img.shields.io/badge/Tool-git-green) ![](https://img.shields.io/badge/Tool-nginx-green) ![](https://img.shields.io/badge/Editor-VSCode-green) ![](https://img.shields.io/badge/Editor-Nova-green) ![](https://img.shields.io/badge/Editor-vi-green) ![](https://img.shields.io/badge/Platform-Wordpress-green) 
-
-<!---
-fyrfli/fyrfli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
