@@ -1,8 +1,7 @@
 <style>
 img {
-    height: 240px;
-    width: auto;
     box-shadow: 1px 2px 4px grey;
+    clip-path: inset(20px 0px 30px 10px);
     margin: auto;
     display: block;
 }
