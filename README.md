@@ -32,4 +32,5 @@
 !["Static Badge"](https://img.shields.io/badge/Tool-red?style=for-the-badge&logo=git&label=git) 
 !["Static Badge"](https://img.shields.io/badge/Tool-caddy?style=for-the-badge&logo=Caddy&label=Caddy&labelColor=grey&color=olivedrab) 
 !["Static Badge"](https://img.shields.io/badge/Tool-red?style=for-the-badge&logo=nginx&label=nginx&labelColor=grey&color=darkgreen)
+
 !["Static Badge"](https://img.shields.io/badge/Tool-neovim?style=for-the-badge&logo=Neovim&label=neovim&color=darkgoldenrod)
